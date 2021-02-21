@@ -7,7 +7,7 @@ package projectEuler;
 public class Problem001 {
 
     public static void main(String[] args) {
-        System.out.println(multiple(1000));
+        System.out.println(multiple(100));
     }
 
     private static long multiple(int n) {
