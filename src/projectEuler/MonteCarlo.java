@@ -20,7 +20,7 @@ public class MonteCarlo {
             }
         }
 
-        double pole = in/(double)amount;
+        double pole = in / (double) amount;
         double pi = pole * 4;
 
         System.out.println("pole = " + pole);
